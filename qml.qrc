@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Header.qml</file>
+        <file>LeftPanel.qml</file>
+        <file>RightPanel.qml</file>
+        <file>CenterPane.qml</file>
+        <file>SummaryPage.qml</file>
+        <file>LoginPage.qml</file>
+        <file>ShootingPage.qml</file>
+        <file>MatchReport.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>ModConnectorDialog.qml</file>
+        <file>ClosePopupDialog.qml</file>
+        <file>MatchReportInfo.qml</file>
+        <file>PdfPage.qml</file>
+        <file>SeriesComponent.qml</file>
+        <file>PdfSeriesPage.qml</file>
+    </qresource>
+</RCC>
